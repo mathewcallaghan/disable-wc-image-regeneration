@@ -1,18 +1,18 @@
 <?php
 /**
- * @link              https://
+ * @link              https://github.com/mathewcallaghan/disable-wc-image-regeneration
  * @since             1.0.0
  * @package           disable_wc_image_regeneration
  *
  * @wordpress-plugin
  * Plugin Name:       Disable Woocommerce Image Regeneration
- * Plugin URI:        https://
+ * Plugin URI:        https://github.com/mathewcallaghan/disable-wc-image-regeneration
  * Description:       Disables the automatic thumbnail image regeneration in Woocommerce.
  * Version:           1.0.0
  * Author:            Mathew Callaghan
  * Author URI:        https://mathew.callaghan.xyz/
- * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * License:           GPL-3.0+
+ * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
  * Text Domain:       disable-wc-image-regeneration
  * Domain Path:       /languages
  */
